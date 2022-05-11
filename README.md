@@ -1,0 +1,2 @@
+# my_config_server
+用于学习springcloud的配置中心所建立的配置中心
