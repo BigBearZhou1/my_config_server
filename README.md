@@ -1,2 +1,4 @@
-# my_config_server
-用于学习springcloud的配置中心所建立的配置中心
+# springcloud-config
+springcloud-config的配置中心
+
+springcloud-config的配置中心
